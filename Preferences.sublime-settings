@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/primer.dark (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Primer Dark.sublime-theme",
+	"theme_primer_tab_active_blue": true,
+	"theme_primer_tab_active_green": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true
+}

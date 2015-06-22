@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"Theme - Primer"
+	]
+}
